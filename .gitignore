@@ -1,0 +1,8 @@
+node_modules/
+sessions/
+.env
+data/
+test.ps1
+receiver.log
+receiver_append.log
+*.log
